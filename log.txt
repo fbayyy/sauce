@@ -1,0 +1,38 @@
+commit 33c72f4450e3074bab117ea156fe16fb98b81af6
+Author: fbayyy <espilumton@gmail.com>
+Date:   Wed Apr 1 16:15:03 2026 +0900
+
+    Initial commit
+
+commit 6dfe2a4ed29b754338a577ba794e873ff34dfa2a
+Author: fbayyy <espilumton@gmail.com>
+Date:   Wed Apr 1 16:15:48 2026 +0900
+
+    update readme
+    
+    i think this unnecessary??
+
+commit 4556efd56759e232496f2b8c95fd7692a87a64a3
+Author: fbay <fbayyy@snu.ac.kr>
+Date:   Wed Apr 1 16:28:44 2026 +0900
+
+    added haha
+
+commit 57cf60f8fc8ce6a212823b622d0c6e73186f1c97
+Merge: 4556efd 6dfe2a4
+Author: fbay <fbayyy@snu.ac.kr>
+Date:   Wed Apr 1 16:41:05 2026 +0900
+
+    modify readme
+
+commit b18737bc3c9b3ffdbfe1ef90a97c986b3cc738d4
+Author: fbay <fbayyy@snu.ac.kr>
+Date:   Wed Apr 1 16:42:52 2026 +0900
+
+    text text
+
+commit 5c9ce1b1cbd86f4218085650d92be0771576ccfb
+Author: fbay <fbayyy@snu.ac.kr>
+Date:   Wed Apr 1 16:57:00 2026 +0900
+
+    test
